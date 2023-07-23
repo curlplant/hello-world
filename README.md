@@ -1,1 +1,1 @@
-开始写文档
+burpsuite的破解：github下载注册机，官网下载burpsuite的jar包，通过注册机运行burpsuite的jar包，在burpsuite的界面，输入license，选择手动激活，输入注册机的response，激活burpsuite。
